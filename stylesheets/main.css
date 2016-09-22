@@ -1,0 +1,15 @@
+@import url("github-dark.css");
+@import url("stylesheet.css");
+nav {
+    margin: auto;
+}
+nav ul, footer ul {
+    list-style: none;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+ul li::before {
+    content: "";
+}
