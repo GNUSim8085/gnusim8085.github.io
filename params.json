@@ -1,6 +1,6 @@
 {
   "name": "GNUSim8085",
   "tagline": "A graphical simulator, assembler and debugger for the Intel 8085 microprocessor",
-  "body": "### Introduction\r\nGNUSim8085 is a graphical simulator, assembler and debugger for the Intel 8085 microprocessor in Linux and Windows.\r\n\r\n### Download\r\nTODO\r\n\r\n### Screenshots\r\nTODO\r\n\r\n### Authors and Contributors\r\nTODO\r\n\r\n### Support or Contact\r\nTODO",
+  "body": "### Introduction\r\nGNUSim8085 is a graphical simulator, assembler and debugger for the Intel 8085 microprocessor in Linux and Windows.\r\n\r\n### Download\r\nTODO\r\n\r\n### Screenshots\r\nTODO: more screenshots?\r\n![Breakpoints](/images/screenshots/breakpoints.png)\r\n\r\n### Authors and Contributors\r\nTODO\r\n\r\n### Support or Contact\r\nTODO",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
