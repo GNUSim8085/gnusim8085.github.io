@@ -10,6 +10,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-ul li::before {
+nav ul li::before {
     content: "";
+}
+
+img {
+    width: 90%;
 }
