@@ -8,9 +8,9 @@ GNUSim8085 is available in repository of most Linux distributions. If the latest
 
 |File|Notes|
 |:--:|:---:|
-|[Debian/Ubuntu 32 bit (i386)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1~hardy1_i386.deb)|MD5: 45180d7bc235f0a0affb6e3a0acb799c, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
-|[Debian/Ubuntu 64 bit (amd64)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1~hardy1_amd64.deb)|MD5: 05712fd939217ff06586c1a81c9ebe1f, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
-|[Debian/Ubuntu powerpc](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1~hardy1_powerpc.deb)|MD5: 663d118ba2cdcb7ac4a41a00b942ff00, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
+|[Debian/Ubuntu 32 bit (i386)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_i386.deb)|MD5: 45180d7bc235f0a0affb6e3a0acb799c, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
+|[Debian/Ubuntu 64 bit (amd64)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_amd64.deb)|MD5: 05712fd939217ff06586c1a81c9ebe1f, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
+|[Debian/Ubuntu powerpc](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_powerpc.deb)|MD5: 663d118ba2cdcb7ac4a41a00b942ff00, Compatible with Debian >= 5.0, Ubuntu >= 8.04|
 |----
 |[Windows 32 bit + GTK installer](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085-1.3.7-with-gtk-installer.exe)|MD5: 4dc96458af974f04fed626efc0bd650c, GTK+ runtime 2.12 included. Choose this installer only if you don't already have GTK+ runtime >= 2.12 installed.|
 |[Windows 32 bit](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085-1.3.7-without-gtk-installer.exe)|MD5: 9b6a3085f8e457a9e5b3964db4f5f4b1, GTK+ runtime >= 2.12 needs to be installed separately if not installed already. Download it from [here](http://gtk-win.sourceforge.net/home/index.php/en/Downloads).|
