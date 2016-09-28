@@ -2,20 +2,12 @@
 
 How to build and run the site locally
 
-* ~~~ bash
+Create a blank Gemfile
+~~~ bash
 $ sudo apt-get install jekyll
-~~~
-* ~~~
 $ sudo apt-get install bundler
-~~~
-* Create a blank Gemfile
-* ~~~
 $ bundle install
-~~~
-* ~~~
 $ jekyll build
-~~~
-* ~~~
 $ jekyll serve
 ~~~
-* Open link http://127.0.0.1:4000/ in browser
+Open link http://127.0.0.1:4000/ in browser
