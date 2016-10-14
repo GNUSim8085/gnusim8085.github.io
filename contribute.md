@@ -18,7 +18,9 @@ Following are some areas where more testing is needed:
 * Printing support on Windows - Currently printing does not work as expected on Windows. This will be fixed in version 1.3.8. Any feedback from Windows users will be great.
 
 ### Translations
-Last release is translated in 12 languages. Some of them are incomplete. You can help us complete translations or add a new one using weblate. Please check the [translations](https://hosted.weblate.org/projects/gnusim8085/translations/) page.
+[![Translation Status](https://hosted.weblate.org/widgets/gnusim8085/-/287x66-black.png)](https://hosted.weblate.org/engage/gnusim8085/?utm_source=widget){:target="_blank"}
+
+Last release is translated in 12 languages. Some of them are incomplete. You can help us complete translations or add a new one using weblate. Click above link for opening the weblate page.
 
 {::comment}
 ### Porting
