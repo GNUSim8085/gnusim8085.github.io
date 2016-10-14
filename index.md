@@ -18,17 +18,13 @@ title: GNUSim8085
 * Printing support (known not to work well on Windows).
 * UI translated in various languages.
 
-<h3>
-<a id="screenshots" class="anchor" href="#screenshots" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Screenshots</h3>
+### Screenshots
+[![Screenshots](/images/screenshots/breakpoints.png)](/screenshots)
 
-<a href="/screenshots"><img src="/images/screenshots/breakpoints.png" alt="Breakpoints"></a>
+### Authors and Contributors
 
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+TODO
 
-<p>TODO</p>
+### Support or Contact
 
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>TODO</p>
+TODO
