@@ -23,8 +23,9 @@ title: GNUSim8085
 
 ### Authors and Contributors
 
-TODO
+- [Sridhar Ratnakumar](http://happyandharmless.ca) - Original author
+- Onkar Shinde & Aanjhan (maintainers)
 
 ### Support or Contact
 
-TODO
+Please [open an issue](https://github.com/GNUSim8085/GNUSim8085/issues) in Github.
