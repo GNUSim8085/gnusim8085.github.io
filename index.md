@@ -4,7 +4,7 @@ title: GNUSim8085
 ---
 ### Introduction
 
-<p>GNUSim8085 is a graphical simulator, assembler and debugger for the Intel 8085 microprocessor in Linux and Windows.</p>
+<p>[GNUSim8085](https://en.wikipedia.org/wiki/GNUSim8085) is a graphical simulator, assembler and debugger for the Intel 8085 microprocessor in Linux and Windows.</p>
 
 * A simple editor component with syntax highlighting.
 * A keypad to input assembly language instructions with appropriate arguments.
