@@ -23,7 +23,7 @@ title: GNUSim8085
 
 ### Authors and Contributors
 
-- [Sridhar Ratnakumar](http://happyandharmless.ca) - Original author
+- [Sridhar Ratnakumar](http://srid.ca) - Original author
 - Onkar Shinde & Aanjhan (maintainers)
 
 ### Support or Contact
