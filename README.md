@@ -7,6 +7,7 @@ Create a Gemfile containing following two lines
 * gem "github-pages", group: :jekyll_plugins
 * gem "jekyll-theme-hacker"
 
+Run following commands on terminal
 ~~~ bash
 $ sudo apt-get install jekyll
 $ sudo apt-get install bundler
