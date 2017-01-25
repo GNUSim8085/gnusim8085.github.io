@@ -1,0 +1,8 @@
+title: GNUSim8085
+description: A graphical simulator, assembler and debugger for the Intel 8085 microprocessor
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
