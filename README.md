@@ -2,7 +2,10 @@
 
 How to build and run the site locally
 
-Create a blank Gemfile
+Create a Gemfile containing following two lines
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-hacker"
+
 ~~~ bash
 $ sudo apt-get install jekyll
 $ sudo apt-get install bundler
