@@ -1,5 +1,7 @@
-@import url("github-dark.css");
-@import url("stylesheet.css");
+---
+---
+
+@import "{{ site.theme }}";
 nav {
     margin: auto;
 }
