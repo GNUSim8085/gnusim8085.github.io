@@ -5,6 +5,8 @@ How to build and run the site locally
 Create a Gemfile containing following two lines
 
 * gem "github-pages", group: :jekyll_plugins
+* gem "jekyll-optional-front-matter"
+* gem "jekyll-default-layout"
 * gem "jekyll-theme-hacker"
 
 Run following commands on terminal
