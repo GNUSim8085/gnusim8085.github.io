@@ -14,7 +14,7 @@ layout: default
 * Support for breakpoints for program debugging.
 * Stepwise program execution.
 * One click conversion of assembly program to opcode listing.
-* Printing support (known not to work well on Windows).
+* Printing support.
 * UI translated in various languages.
 
 ### Screenshots

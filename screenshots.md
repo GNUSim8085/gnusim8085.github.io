@@ -2,7 +2,7 @@
 layout: default
 title: Screenshots
 ---
-# Current Version (1.3.7)
+# Current Version (1.3.8)
 
 ### Syntax highlighting
 ![Syntax Highlighting](images/screenshots/syntax_highlight.png)
@@ -10,7 +10,7 @@ title: Screenshots
 ### Using breakpoints to find problems in program
 ![Debugging using breakpoints](images/screenshots/breakpoints.png)
 
-### UI available in 12 languages
+### UI available in many languages
 ![i18n](images/screenshots/i18n.png)
 
 ### Print the assembly listing and take it to lab

@@ -15,7 +15,7 @@ Meanwhile we distribute some sample programs with our application to help users 
 As with most Free software applications ours is mainly tested by user community. Please test the application as much as possible and file any bugs you find. You can focus the testing on a specific platform (ex. Windows) or specific area of application (ex. memory instructions).
 Following are some areas where more testing is needed:
 
-* Printing support on Windows - Currently printing does not work as expected on Windows. This will be fixed in version 1.3.8. Any feedback from Windows users will be great.
+* Printing support on Windows - Printing issue Windows has been fixed in version 1.3.8. Any feedback from Windows users will be great.
 
 ### Translations
 [![Translation Status](https://hosted.weblate.org/widgets/gnusim8085/-/287x66-black.png)](https://hosted.weblate.org/engage/gnusim8085/?utm_source=widget){:target="_blank"}
