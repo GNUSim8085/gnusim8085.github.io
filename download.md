@@ -45,10 +45,8 @@ GNUSim8085 is available in repository of most Linux distributions. If the latest
 
 |File|Notes|
 |:--:|:---:|
-{::comment}
-|[Debian/Ubuntu 32 bit (i386)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_i386.deb){:id="deb32" style="display:none"}|MD5: 45180d7bc235f0a0affb6e3a0acb799c, Compatible with Debian >= 9.0, Ubuntu >= 16.04 {: style="display:none"}|
-|[Debian/Ubuntu 64 bit (amd64)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_amd64.deb){:id="deb64" style="display:none"}|MD5: 05712fd939217ff06586c1a81c9ebe1f, Compatible with Debian >= 9.0, Ubuntu >= 16.04 {: style="display:none"}|
-{:/comment}
+|[Debian/Ubuntu 32 bit (i386)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_i386.deb){:id="deb32"}|MD5: 45180d7bc235f0a0affb6e3a0acb799c, Compatible with Debian >= 9.0, Ubuntu >= 16.04|
+|[Debian/Ubuntu 64 bit (amd64)](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.3.7/gnusim8085_1.3.7-1.hardy1_amd64.deb){:id="deb64"|MD5: 05712fd939217ff06586c1a81c9ebe1f, Compatible with Debian >= 9.0, Ubuntu >= 16.04|
 |[Windows 32 bit](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.4.0/gnusim8085-1.4.0-installer.exe){:id="wingtk32"}|MD5: 5f90ae04cdec93d1a8b9abb782393f4e, GTK+ runtime included. Uninstall any older version before installing this.|
 |[Source](https://github.com/GNUSim8085/GNUSim8085/releases/download/1.4.0/gnusim8085-1.4.0.tar.gz){:id="targz"}|MD5: fd658dab623dbaee4946f086617a69af, Compatible with Debian >= 9.0, Ubuntu >= 16.04|
 
