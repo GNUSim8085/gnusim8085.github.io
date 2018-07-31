@@ -2,8 +2,6 @@
 layout: default
 title: Screenshots
 ---
-# Current Version (1.3.8)
-
 ### Syntax highlighting
 ![Syntax Highlighting](images/screenshots/syntax_highlight.png)
 
