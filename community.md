@@ -17,6 +17,9 @@ If listening technical concepts explained in Hindi is your cup of tea then refer
 
 ## Reviews
 
-One of the most comprehensive review of the application written for Open Surce For You
+One of the most comprehensive review of the application written for Open Source For You
 [Reviewing the GNUSim8085](https://opensourceforu.com/2011/08/gnusim8085-review/){:target="_blank"}
+
+Slightly modified version of the above review with screenshots
+[Reviewing the GNUSim8085](https://phoxis.org/2011/08/14/reviewing-the-gnusim8085-v1-3-7/){:target="_blank"}
 
