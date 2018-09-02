@@ -22,7 +22,7 @@ layout: default
 
 ### Authors and Contributors
 
-- [Sridhar Ratnakumar](http://srid.ca) - Original author
+- [Sridhar Ratnakumar](http://www.srid.ca) - Original author
 - Onkar Shinde & Aanjhan (maintainers)
 
 ### Support or Contact
